@@ -1,6 +1,6 @@
 # PokeDex
 PokeDex feita apartir da video aula do canal Roger Melo.
-Feito em CSS, HTML, JavaScript.
+<p> Feito em CSS, HTML, JavaScript. </p>
 
 ![alt text](https://github.com/elyda66/PokeDex/blob/main/Tela.png "Tela da PokeDex")
 
